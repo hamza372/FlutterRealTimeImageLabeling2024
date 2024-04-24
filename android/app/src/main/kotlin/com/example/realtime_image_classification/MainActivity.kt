@@ -1,0 +1,5 @@
+package com.example.realtime_image_classification
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
